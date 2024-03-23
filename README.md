@@ -14,7 +14,7 @@ To use this code snippet, simply copy the HTML and CSS provided in the index.htm
 - CSS
 
 ## Author
-[Your Name]
+[Muhammad Shabbir](https://github.com/muhammadshabbir07)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
